@@ -1,0 +1,20 @@
+.colom .col-4 {
+  /* border: 1px solid black; */
+  margin-top: 7px;
+}
+
+.colom .col-4 img {
+  margin-left: 2rem;
+  /* border: 1px solid black; */
+  margin-top: 1rem;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+}
+
+.col-4 .card-body .img-profil {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
